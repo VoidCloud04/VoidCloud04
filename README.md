@@ -8,5 +8,5 @@ I make incremental games at the moment and you can check them out at https://mrb
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=MrBacon470&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBacon470&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=VoidCloud04&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidCloud04&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
