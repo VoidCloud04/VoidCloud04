@@ -12,3 +12,5 @@ However not actively developing any new games/updating old ones<br>
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 <br>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
